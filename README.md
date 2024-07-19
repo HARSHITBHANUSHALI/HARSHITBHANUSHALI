@@ -7,7 +7,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-  I am Harshit Bhanushali, currently a third-year Computer Science and Engineering student at Sardar Patel Institute of Technology, Mumbai. I have a strong passion for full stack development and have completed 2-3 projects in this domain. My journey in technology began with learning languages like C, C++, Java, and Python. Over time, I expanded my skill set to include web development technologies such as HTML, CSS, JavaScript, TailwindCSS, ReactJS, Node.js, and Express.js. Additionally, I have experience with databases like MySQL and MongoDB. Moving forward, I am eager to delve into the realms of Machine Learning and Blockchain technology.
+  I am Harshit Bhanushali, currently a third-year Computer Science and Engineering student at Sardar Patel Institute of Technology, Mumbai. My journey in technology began with learning languages like C, C++, Java, and Python. Over time, I expanded my skill set to include web development technologies such as HTML, CSS, JavaScript, TailwindCSS, ReactJS, Node.js, and Express.js. Additionally, I have experience with databases like MySQL and MongoDB. Moving forward, I am eager to delve into the realms of Machine Learning and Blockchain technology.
 </p>
 
 <h3 align="left">Connect with me:</h3>
