@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 
   <!-- Add your social media links here -->
-  <a href="www.linkedin.com/in/harshit-bhanushali-1137501b0" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/harshit-bhanushali-1137501b0" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" width="50" height="50"/></a>
   <a href="https://github.com/HARSHITBHANUSHALI" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="github" width="50" height="50"/></a>
 
 
