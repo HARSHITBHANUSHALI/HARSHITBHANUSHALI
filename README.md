@@ -158,26 +158,25 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
       <h3>🚀 FRONTEND ARSENAL 🚀</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="60" height="60" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" style="background-color: white; padding: 5px; border-radius: 5px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
       <p>React • Next.js • React Native • Tailwind CSS • Framer Motion</p>
     </td>
-    <td align="center">
+    <td align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
       <h3>⚡ BACKEND FORGE ⚡</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="60" height="60" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" />
+      <img src="https://skillicons.dev/icons?i=express" />
+      <img src="https://skillicons.dev/icons?i=flask" />
       <p>Node.js • Express.js • Flask • Socket.io • RESTful APIs • JWT Authentication</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
       <h3>💾 DATA NEXUS 💾</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
@@ -185,7 +184,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" />
       <p>MongoDB • MySQL • Supabase • Firebase</p>
     </td>
-    <td align="center">
+    <td align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
       <h3>🧠 AI WORKSHOP 🧠</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
